@@ -1,4 +1,4 @@
-# PDSA Recap
+# Pdsa Course Recap
 
 Notes and practice problems for Programming, Data Structures, and Algorithms (PDSA).
 
